@@ -638,7 +638,10 @@ span{
         display: flex;
         flex-direction: column;
     }
-    .home-sci{
+    .home-sci {
+        width: 160px
+      }
+    .home-sci a{
         width: 38px;
         height: 38px;
     }
